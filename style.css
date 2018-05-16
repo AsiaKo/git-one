@@ -3,3 +3,7 @@ body {
 	color: white;
 	font-size: 15px;
 }
+
+p {
+	font-weight: 600;
+}
